@@ -1,0 +1,95 @@
+Osiedle: Patium Ilosc mieszkan i parkingow: 20
+
+
+!MIESZKANIA!
+
+Mieszkanie NR: 2 Rzeczywista objetosc pomieszczenia: 18.5 Wolna objestosc mieszkania: 15.96
+Najemca: Brak najemcy
+Liczba osob w mieszkaniu: 2
+Lista osob znajdujacych sie w mieszkaniu -> [Imie: Ania Nazwisko: Jantar Pesel: 632048276 Adres: Lipowa 245/43 DataUrodzenia: 28.03.1961, Imie: Szymon Nazwisko: Pietruszka Pesel: 785321459 Adres: Sosnowa 26/34 DataUrodzenia: 28.03.1948]
+Liczba przedmiotow w mieszkaniu: 2
+Lista przedmiotow znajdujacych sie w mieszkaniu -> [Nazwa przedmiotu -> Telewizor Objętosc przedmiotu: 0.04000000000000001 m^3, Nazwa przedmiotu -> Stolik Objętosc przedmiotu: 2.5 m^3]
+
+Mieszkanie NR: 8 Rzeczywista objetosc pomieszczenia: 40.7 Wolna objestosc mieszkania: 40.7
+Najemca: Brak najemcy
+Liczba osob w mieszkaniu: 2
+Lista osob znajdujacych sie w mieszkaniu -> [Imie: Ola Nazwisko: Gutowska Pesel: 325654739 Adres: Jacka i Agatki 6/69 DataUrodzenia: 15.08.1958, Imie: Katarzyna Nazwisko: Lewandowska Pesel: 565654588 Adres: Jacka i Agatki 6/37 DataUrodzenia: 29.06.2001]
+Liczba przedmiotow w mieszkaniu: 0
+Lista przedmiotow znajdujacych sie w mieszkaniu -> []
+
+Mieszkanie NR: 0 Rzeczywista objetosc pomieszczenia: 50.5 Wolna objestosc mieszkania: 49.376
+Najemca: Imie: Maciej Nazwisko: Maciejewski Pesel: 344344409 Adres: Szymanowskiego 23/45 DataUrodzenia: 25.05.1965
+Liczba osob w mieszkaniu: 2
+Lista osob znajdujacych sie w mieszkaniu -> [Imie: Magda Nazwisko: Krychowiak Pesel: 432334344 Adres: Tomcia Palucha 48/31 DataUrodzenia: 20.02.1968, Imie: Mateusz Nazwisko: Romaniuk Pesel: 458748532 Adres: Akacjowa 31/52 DataUrodzenia: 12.02.2000]
+Liczba przedmiotow w mieszkaniu: 2
+Lista przedmiotow znajdujacych sie w mieszkaniu -> [Nazwa przedmiotu -> Narzędzia Objętosc przedmiotu: 0.999 m^3, Nazwa przedmiotu -> Mlotek Objętosc przedmiotu: 0.125 m^3]
+
+Mieszkanie NR: 1 Rzeczywista objetosc pomieszczenia: 68.8 Wolna objestosc mieszkania: 64.00999999999999
+Najemca: Brak najemcy
+Liczba osob w mieszkaniu: 2
+Lista osob znajdujacych sie w mieszkaniu -> [Imie: Marta Nazwisko: Fernandes Pesel: 987456321 Adres: Hassa 23/45 DataUrodzenia: 21.01.1932, Imie: Mateusz Nazwisko: Romaniuk Pesel: 458748532 Adres: Akacjowa 31/52 DataUrodzenia: 12.02.2000]
+Liczba przedmiotow w mieszkaniu: 2
+Lista przedmiotow znajdujacych sie w mieszkaniu -> [Nazwa przedmiotu -> Sofa Objętosc przedmiotu: 0.7800000000000001 m^3, Nazwa przedmiotu -> Regal Objętosc przedmiotu: 4.01 m^3]
+
+Mieszkanie NR: 5 Rzeczywista objetosc pomieszczenia: 69.0 Wolna objestosc mieszkania: 65.096
+Najemca: Brak najemcy
+Liczba osob w mieszkaniu: 2
+Lista osob znajdujacych sie w mieszkaniu -> [Imie: Ola Nazwisko: Gutowska Pesel: 325654739 Adres: Jacka i Agatki 6/69 DataUrodzenia: 15.08.1958, Imie: Mateusz Nazwisko: Romaniuk Pesel: 458748532 Adres: Akacjowa 31/52 DataUrodzenia: 12.02.2000]
+Liczba przedmiotow w mieszkaniu: 2
+Lista przedmiotow znajdujacych sie w mieszkaniu -> [Nazwa przedmiotu -> Lodowka Objętosc przedmiotu: 3.124 m^3, Nazwa przedmiotu -> Sofa Objętosc przedmiotu: 0.7800000000000001 m^3]
+
+Mieszkanie NR: 4 Rzeczywista objetosc pomieszczenia: 89.9 Wolna objestosc mieszkania: 81.39
+Najemca: Brak najemcy
+Liczba osob w mieszkaniu: 1
+Lista osob znajdujacych sie w mieszkaniu -> [Imie: Marta Nazwisko: Fernandes Pesel: 987456321 Adres: Hassa 23/45 DataUrodzenia: 21.01.1932]
+Liczba przedmiotow w mieszkaniu: 2
+Lista przedmiotow znajdujacych sie w mieszkaniu -> [Nazwa przedmiotu -> Lozko Objętosc przedmiotu: 4.5 m^3, Nazwa przedmiotu -> Regal Objętosc przedmiotu: 4.01 m^3]
+
+Mieszkanie NR: 7 Rzeczywista objetosc pomieszczenia: 100.4 Wolna objestosc mieszkania: 100.4
+Najemca: Brak najemcy
+Liczba osob w mieszkaniu: 1
+Lista osob znajdujacych sie w mieszkaniu -> [Imie: Stanisława Nazwisko: Pietruszka Pesel: 139746579 Adres: Brzozowa 23/65 DataUrodzenia: 19.03.1948]
+Liczba przedmiotow w mieszkaniu: 0
+Lista przedmiotow znajdujacych sie w mieszkaniu -> []
+
+Mieszkanie NR: 6 Rzeczywista objetosc pomieszczenia: 182.0 Wolna objestosc mieszkania: 180.876
+Najemca: Brak najemcy
+Liczba osob w mieszkaniu: 1
+Lista osob znajdujacych sie w mieszkaniu -> [Imie: Jakub Nazwisko: Sylwestrzak Pesel: 029354873 Adres: Oknicka 23/65 DataUrodzenia: 12.12.1919]
+Liczba przedmiotow w mieszkaniu: 2
+Lista przedmiotow znajdujacych sie w mieszkaniu -> [Nazwa przedmiotu -> Narzędzia Objętosc przedmiotu: 0.999 m^3, Nazwa przedmiotu -> Mlotek Objętosc przedmiotu: 0.125 m^3]
+
+Mieszkanie NR: 3 Rzeczywista objetosc pomieszczenia: 3282.51 Wolna objestosc mieszkania: 3280.42
+Najemca: Brak najemcy
+Liczba osob w mieszkaniu: 1
+Lista osob znajdujacych sie w mieszkaniu -> [Imie: Ania Nazwisko: Jantar Pesel: 632048276 Adres: Lipowa 245/43 DataUrodzenia: 28.03.1961]
+Liczba przedmiotow w mieszkaniu: 1
+Lista przedmiotow znajdujacych sie w mieszkaniu -> [Nazwa przedmiotu -> Opony Objętosc przedmiotu: 2.09 m^3]
+
+
+!PARKINGI!
+
+Parking NR: 0 Rzeczywista objetosc pomieszczenia: 60.0 Wolna objestosc mieszkania: 58.096
+Najemca: Imie: Maciej Nazwisko: Maciejewski Pesel: 344344409 Adres: Szymanowskiego 23/45 DataUrodzenia: 25.05.1965
+Liczba przedmiotow w parkingu: 3
+Lista przedmiotow znajdujacych sie w parkingu -> [Nazwa przedmiotu -> Narzędzia Objętosc przedmiotu: 0.999 m^3, Nazwa przedmiotu -> Mlotek Objętosc przedmiotu: 0.125 m^3, Nazwa przedmiotu -> Sofa Objętosc przedmiotu: 0.7800000000000001 m^3]
+Pojazd: null
+
+Parking NR: 1 Rzeczywista objetosc pomieszczenia: 70.0 Wolna objestosc mieszkania: 33.44999999999999
+Najemca: Brak najemcy
+Liczba przedmiotow w parkingu: 3
+Lista przedmiotow znajdujacych sie w parkingu -> [Nazwa przedmiotu -> Regal Objętosc przedmiotu: 4.01 m^3, Nazwa przedmiotu -> Stolik Objętosc przedmiotu: 2.5 m^3, Nazwa przedmiotu -> Telewizor Objętosc przedmiotu: 0.04000000000000001 m^3]
+Pojazd: SAMOCHÓD MIEJSKI: Nazwa-> Honda Model-> Civic Ilość miejsc siedzących-> 4
+
+Parking NR: 2 Rzeczywista objetosc pomieszczenia: 80.0 Wolna objestosc mieszkania: 46.41
+Najemca: Brak najemcy
+Liczba przedmiotow w parkingu: 2
+Lista przedmiotow znajdujacych sie w parkingu -> [Nazwa przedmiotu -> Lozko Objętosc przedmiotu: 4.5 m^3, Nazwa przedmiotu -> Opony Objętosc przedmiotu: 2.09 m^3]
+Pojazd: SAMOCHÓD MIEJSKI: Nazwa-> Skoda Model-> Octavia Ilość miejsc siedzących-> 4
+
+Parking NR: 3 Rzeczywista objetosc pomieszczenia: 176.624 Wolna objestosc mieszkania: 131.974
+Najemca: Brak najemcy
+Liczba przedmiotow w parkingu: 0
+Lista przedmiotow znajdujacych sie w parkingu -> []
+Pojazd: SAMOCHÓD TERENOWY: Marka-> RangeRover Model-> Sport Ilość miejsc siedzących-> 4
+
